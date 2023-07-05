@@ -1,0 +1,57 @@
+.posterTrailer {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.poster {
+    height: 60vh !important;
+    width: auto !important;
+    padding: 0;
+}
+
+.trailer {
+    height: 60vh !important;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.title {
+    font-size: 2.5rem !important;
+    color: rgb(226,225,228) !important;
+    padding: 0 !important;
+}
+
+.badges {
+    color: rgb(226,225,228) !important;
+    background-color: rgb(43,48,53) !important;
+    border: 0.75px solid rgb(226,225,228) !important;
+}
+
+.releaseDate{
+    padding: 0 !important;
+    font-size: 0.75rem;
+    color: grey !important;
+}
+
+.review {
+    padding: 0 !important;
+    color: rgb(226,225,228) !important;
+    margin: 0;
+}
+
+.reviewButton {
+    font-size: 0.75rem !important;
+    background-color: rgb(51, 100, 126) !important;
+    border: 1px solid rgb(43,48,53) !important;
+    border-radius: 5px !important;
+    padding: 0.5rem;
+    min-width: 10%;
+    max-width: 20%;
+}
+
+.reviewButton:hover {
+    background-color: rgb(43,48,53) !important;
+    border: 1px solid rgb(51, 100, 126) !important;
+}

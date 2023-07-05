@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow&display=swap');
+
+* {
+  background-color: rgb(43,48,53);
+  color: rgb(226,225,228);
+  font-family: 'Barlow' !important ;
+}
+
+body {
+  margin: 0;
+  background-color: rgb(43,48,53);
+  width: 100%;
+  overflow-x: hidden;
+  font-family: 'Amatic SC', 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

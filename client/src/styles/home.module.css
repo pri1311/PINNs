@@ -1,0 +1,80 @@
+.cardGrid {
+    height: auto !important;
+    width: 100% !important;
+    padding: 0 !important;
+    margin-top: 0 !important;
+}
+
+.cardContainer {
+    border-radius: 0 !important;
+    padding: 0.5rem 0 !important;
+}
+
+.card {
+    height: 20rem !important;
+    width: 12rem !important;
+    font-size: 0.75rem !important;
+    margin: 0.25rem !important;
+    border: none !important;
+    background-color: rgb(43,48,53);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+    border-radius: 0 !important;
+    
+}
+
+.cardTitle {
+    font-size: 0.75rem !important;
+    color: rgb(226,225,228) !important;
+}
+
+.cardGrid {
+    margin: 1rem !important;
+}
+
+.cardPoster {
+    height: 14rem !important;
+    width: auto !important;
+    margin: 0 !important;
+    object-fit: fill !important;
+    border-radius: 0 !important;
+}
+
+.cardButton {
+    font-size: 0.75rem !important;
+    background-color: rgb(43,48,53) !important;
+    border: none !important;
+    border-radius: 5px !important;
+}
+
+.cardButton:hover {
+    background-color: rgb(44,44,44) !important;
+    background-color: rgb(51, 100, 126) !important;
+}
+
+.cardButton:hover .playIcon {
+    background-color: rgb(51, 100, 126) !important;
+}
+
+.cardButton:hover .reviewIcon {
+    background-color: rgb(51, 100, 126) !important;
+}
+
+.playIcon {
+    color: rgb(226,225,228) !important;
+    font-size: 0.7rem !important;
+    margin: 0 0.4rem;
+}
+
+.reviewIcon {
+    color: rgb(226,225,228) !important;
+    font-size: 0.7rem !important;
+    margin: 0 0.4rem;
+}
+
+.reviewInput {
+    color: black !important;
+}
+
+.reviewTitle {
+    color: rgb(226,225,228) !important;
+}
